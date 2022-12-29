@@ -1,0 +1,63 @@
+reading data/title.basics.tsv into dict...
+elapsed time (s): 63.24281256199902
+
+reading data/title.ratings.tsv into dict...
+elapsed time (s): 3.057733179000934
+
+Total movies: 8903138
+Total ratings: 1236240
+
+processing: LOOKUP tt0081505
+	MOVIE: Identifier: tt0081505, Title: The Shining, Type: movie, Year: 1980, Runtime: 146, Genres: Drama, Horror
+	RATING: Identifier: tt0081505, Rating: 8.4, Votes: 1002427
+elapsed time (s): 7.291997462743893e-06
+
+processing: LOOKUP tt0816692
+	MOVIE: Identifier: tt0816692, Title: Interstellar, Type: movie, Year: 2014, Runtime: 169, Genres: Adventure, Drama, Sci-Fi
+	RATING: Identifier: tt0816692, Rating: 8.6, Votes: 1774591
+elapsed time (s): 2.8130016289651394e-06
+
+processing: LOOKUP tt0052357
+	MOVIE: Identifier: tt0052357, Title: Vertigo, Type: movie, Year: 1958, Runtime: 128, Genres: Mystery, Romance, Thriller
+	RATING: Identifier: tt0052357, Rating: 8.3, Votes: 398874
+elapsed time (s): 3.2370007829740644e-06
+
+processing: LOOKUP tt0080684
+	MOVIE: Identifier: tt0080684, Title: Star Wars: Episode V - The Empire Strikes Back, Type: movie, Year: 1980, Runtime: 124, Genres: Action, Adventure, Fantasy
+	RATING: Identifier: tt0080684, Rating: 8.7, Votes: 1273144
+elapsed time (s): 3.306999133201316e-06
+
+processing: LOOKUP tt0338013
+	MOVIE: Identifier: tt0338013, Title: Eternal Sunshine of the Spotless Mind, Type: movie, Year: 2004, Runtime: 108, Genres: Drama, Romance, Sci-Fi
+	RATING: Identifier: tt0338013, Rating: 8.3, Votes: 994071
+elapsed time (s): 2.687000232981518e-06
+
+processing: LOOKUP tt0245429
+	MOVIE: Identifier: tt0245429, Title: Spirited Away, Type: movie, Year: 2001, Runtime: 125, Genres: Adventure, Animation, Family
+	RATING: Identifier: tt0245429, Rating: 8.6, Votes: 747654
+elapsed time (s): 2.22500239033252e-06
+
+processing: LOOKUP tt2301451
+	MOVIE: Identifier: tt2301451, Title: Ozymandias, Type: tvEpisode, Year: 2013, Runtime: 48, Genres: Crime, Drama, Thriller
+	RATING: Identifier: tt2301451, Rating: 10.0, Votes: 178371
+elapsed time (s): 2.5459994503762573e-06
+
+processing: LOOKUP tt0204657
+	MOVIE: Identifier: tt0204657, Title: Super Mario 64, Type: videoGame, Year: 1996, Runtime: 0, Genres: Action, Adventure, Comedy
+	RATING: Identifier: tt0204657, Rating: 9.1, Votes: 6129
+elapsed time (s): 2.1550004021264613e-06
+
+processing: LOOKUP tt5753856
+	MOVIE: Identifier: tt5753856, Title: Dark, Type: tvSeries, Year: 2017, Runtime: 60, Genres: Crime, Drama, Mystery
+	RATING: Identifier: tt5753856, Rating: 8.7, Votes: 368293
+elapsed time (s): 2.6400011847727e-06
+
+processing: LOOKUP tt7149678
+	MOVIE: Identifier: tt7149678, Title: Super Bowl LI Halftime Show Starring Lady Gaga, Type: tvSpecial, Year: 2017, Runtime: 14, Genres: Documentary, Music, Musical
+	RATING: Identifier: tt7149678, Rating: 8.8, Votes: 1822
+elapsed time (s): 2.052998752333224e-06
+
+processing: LOOKUP tt9999999
+	Movie not found!
+	Rating not found!
+elapsed time (s): 1.2700002116616815e-06
